@@ -1,0 +1,4 @@
+channel 1
+file laws laws.db.gz 151142703 91568fb16fc4c0d7ed152fe1eefaed155cea2aaf506f8ba5987fd94f50d37307 2026-09-24T20:38 199905280 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/laws-20260924-2038/laws.db.gz
+file library library.db.gz 964847241 2ea0d145ee131c3bb1fa88115fb6e2bb87de872eb85efdc86a62ee5a1b4a0981 2026-09-24T20:39 1267900416 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/library-20260924-2039/library.db.gz
+sig MEUCIQDY5NC1/00KEyRfyl30p3OLSHBRbR9vIjmOY4waBJ8FvAIgYjDXfskeULECPR433URFnE0uD669A3SIhzfO2Mh6oBM=

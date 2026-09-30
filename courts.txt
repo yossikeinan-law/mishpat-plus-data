@@ -1,0 +1,3 @@
+channel 1
+file courts courts.db.gz 261943860 46bbe1e1183171c4e27e18f3fc552ec32f65211f54f359f45705dbf45b5f97d5 2026-09-30T20:30 322768896 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/courts-20260930-2030/courts.db.gz
+sig MEUCIEhEtFMty7/yhUZORrBuNDYxp3CURw9s+oeIiECCCMSMAiEA38JPUxwzu6PABUHW0prqlMjSKPp45JiqXsMrTmNCKjg=

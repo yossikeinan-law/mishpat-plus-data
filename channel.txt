@@ -1,4 +1,4 @@
 channel 1
-file laws laws.db.gz 151114720 221c1a286afa7a7ffd4be19fb7e27ae76c6ef4c67972041558505e4c33ecda8e 2026-10-04T00:49 199868416 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/laws-20261004-0049/laws.db.gz
-file library library.db.gz 935578355 1d8785457daac9a564815ff7721ce6506358295f918fb1a60feb449f2ada8985 2026-10-04T00:23 1239351296 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/library-20261004-0023/library.db.gz
-sig MEQCICPjP8cXnIJ3wOuTwB2tx40nOaR8jx5cRHN6EHqKfE3YAiAsUoIc4HSESt48QGM8cuPgKnYKQSb+/c2AJzCfFgfFRQ==
+file laws laws.db.gz 151994614 f0876d20a5547b125a4c5fdf3aa9a6cf3999a3b3e7d9134917462ff32b383fac 2026-10-04T02:18 201203712 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/laws-20261004-0218/laws.db.gz
+file library library.db.gz 943277389 f32aec4cd5b73ea3f2707af2b321800c1b83772e1603e3e7ae7c2b013aa8e1f8 2026-10-04T02:19 1250308096 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/library-20261004-0219/library.db.gz
+sig MEYCIQDHJtx9MSNeVVAwGe2jZZAaQDwzqoKD4oBO40VHu++A+QIhAITTWsch6ImxBLvSJtN1LViaST0bwa756s+FfQxdhv2Q

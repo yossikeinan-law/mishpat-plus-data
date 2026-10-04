@@ -1,3 +1,3 @@
 channel 1
-file extra extra.db.gz 1714428 ca8d3e36f9fff18b5e0d43b5d2143dae1d23d6c2b23e0634a72f9151ac07df9b 2026-10-04T09:26 6975488 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/extra-20261004-0926/extra.db.gz
-sig MEQCIBTAtyvfkzuDZOfIwlLaMrfOnJGJydYmPT2PnN9hb2/7AiBFwwQm0xZIRpDE84v6f40OG3zqi2uE9Tsuj+ufEtBxgA==
+file extra extra.db.gz 1714445 02e5900578778fd0a0c403c9d201d84efe8fb4da37b655b0dea51f011e2143df 2026-10-04T09:44 6975488 https://github.com/yossikeinan-law/mishpat-plus-data/releases/download/extra-20261004-0944/extra.db.gz
+sig MEYCIQCDE6VZAXo3XWmS3xO1dVZXJq21m8Tjal3fHuunJNsAxAIhAMmM6FmNR2aV5KXrak1ykagch46o8eOpMgjokWN/fxEm
